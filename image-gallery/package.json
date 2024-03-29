@@ -1,13 +1,11 @@
 {
-  "name": "git_test",
+  "name": "image-gallery",
   "version": "1.0.0",
-  "description": "My first Github repo\r Hello Odin!",
+  "description": "My first npm module. For an image gallery/slider",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.prod.js",
-    "dev": "webpack serve --config webpack.dev.js",
-    "watch": "webpack --progress --watch --config webpack.dev.js"
+    "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
   "author": "CJP Labs <prattecole@gmail.com>",
